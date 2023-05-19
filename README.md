@@ -1,3 +1,12 @@
+You can edit your notes title or text. You can search your notes from it's title.
+
+Screen shots:
+![hw1](https://user-images.githubusercontent.com/95983921/236296831-f4b27909-63b3-49ff-93ad-adf29fda36cf.PNG)
+![hw2](https://user-images.githubusercontent.com/95983921/236296834-4795c741-6331-471a-a2cd-89d13eb18da7.PNG)
+![hw3](https://user-images.githubusercontent.com/95983921/236296843-b4bc9f4e-75dd-4c6f-b2cd-d18e1802d698.PNG)
+![hw4](https://user-images.githubusercontent.com/95983921/236296850-f6eb41ec-b1ff-4e0e-9f8f-ec8849a51a6c.PNG)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
